@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou HiperDev42 👋</h1>
+<h1 align="center">Olá, eu sou Felipe Bernardino 👋</h1>
 
 <p align="center">
   <em>Desenvolvedor apaixonado por tecnologia, criptomoedas e resolução de problemas com código.</em>
