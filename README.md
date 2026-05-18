@@ -6,15 +6,15 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 💼 Currently working as a **full stack developer at IturanMob**
-- 🛠️ Most familiar with **Go**, **Python**, **JavaScript**, and **TypeScript**
-- 💡 I enjoy working with web development, APIs, and scalable solutions
+- Software Engineer with experience building backend services, APIs and full-stack applications using Go, TypeScript, React and NestJS.
+- Currently working at IturanMob while pursuing a Computer Science degree at the University of São Paulo (USP).
+- Interested in distributed systems, backend architecture, cloud infrastructure and scalable software engineering.
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
@@ -28,18 +28,18 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
-| Project                                                       | Description                                  | Language |
-| ------------------------------------------------------------- | -------------------------------------------- | -------- |
-| [🪙 GoCoin](https://github.com/HiperDev42/GoCoin)             | Simple cryptocurrency implemented in Go      | Go       |
-| [🐍 PyCoin](https://github.com/HiperDev42/PyCoin)             | Cryptocurrency implemented in Python         | Python   |
-| [🧩 SudokuSolver](https://github.com/HiperDev42/SudokuSolver) | Sudoku solver using a backtracking algorithm | Python   |
-| [🌐 IHC_Final](https://github.com/HiperDev42/IHC_Final)       | Final Human-Computer Interaction project     | HTML     |
+| Project                                                    | Description                                  | Language |
+| ---------------------------------------------------------- | -------------------------------------------- | -------- |
+| [GoCoin](https://github.com/HiperDev42/GoCoin)             | Simple cryptocurrency implemented in Go      | Go       |
+| [PyCoin](https://github.com/HiperDev42/PyCoin)             | Cryptocurrency implemented in Python         | Python   |
+| [SudokuSolver](https://github.com/HiperDev42/SudokuSolver) | Sudoku solver using a backtracking algorithm | Python   |
+| [IHC_Final](https://github.com/HiperDev42/IHC_Final)       | Final Human-Computer Interaction project     | HTML     |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HiperDev42&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -48,7 +48,7 @@
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 
 <p align="left">
   <a href="https://github.com/HiperDev42">
