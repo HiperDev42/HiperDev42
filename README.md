@@ -54,6 +54,12 @@
   <a href="https://github.com/HiperDev42">
     <img src="https://img.shields.io/badge/GitHub-HiperDev42-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/felipe-kelemen-bernardino/">
+    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Bernardino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:felipe.kelemen02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-felipe.kelemen02%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
