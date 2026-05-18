@@ -1,8 +1,7 @@
 <h1 align="center">Felipe Kelemen Bernardino</h1>
-<h2 align="center">Backend Engineer focused on scalable systems and modern web applications</h2>
 
 <p align="center">
-  <em>Full stack developer focused on building robust web solutions and solving problems with code.</em>
+  <em>Backend & Full Stack Engineer focused on scalable systems and modern web applications</em>
 </p>
 
 ---
