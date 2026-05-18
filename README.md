@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Felipe Bernardino 👋</h1>
+<h1 align="center">Felipe Kelemen Bernardino</h1>
+<h2 align="center">Backend Engineer focused on scalable systems and modern web applications</h2>
 
 <p align="center">
   <em>Full stack developer focused on building robust web solutions and solving problems with code.</em>
@@ -11,7 +12,6 @@
 - 💼 Currently working as a **full stack developer at IturanMob**
 - 🛠️ Most familiar with **Go**, **Python**, **JavaScript**, and **TypeScript**
 - 💡 I enjoy working with web development, APIs, and scalable solutions
-- ⚡ Fun fact: I can solve a Sudoku... but I prefer writing a solver in Python 😄
 
 ---
 
@@ -43,8 +43,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiperDev42&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiperDev42&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HiperDev42&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HiperDev42&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
